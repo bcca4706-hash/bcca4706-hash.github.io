@@ -1,0 +1,22 @@
+[
+  { "icon":"🐋", "cat":"HAYVAN", "text":"Mavi balinanın kalbi bir otomobil kadardır ve atışı 3 kilometre öteden duyulabilir.", "source":"Zooloji" },
+  { "icon":"🧊", "cat":"DÜNYA", "text":"Antarktika'daki buz, dünyadaki tatlı suyun yaklaşık %60'ından fazlasını içerir.", "source":"Coğrafya" },
+  { "icon":"🦩", "cat":"HAYVAN", "text":"Flamingolar tek ayak üstünde durunca daha az enerji harcar; bu poz onlara dinlenme sağlar.", "source":"Zooloji" },
+  { "icon":"🌕", "cat":"UZAY", "text":"Ay'ın yalnızca bir yüzünü görürüz; kendi ekseninde dönüşü Dünya turuyla aynı sürede tamamlanır.", "source":"Astronomi" },
+  { "icon":"🐜", "cat":"HAYVAN", "text":"Dünyadaki tüm karıncaların toplam ağırlığı, tüm insanların ağırlığına yaklaşır.", "source":"Ekoloji" },
+  { "icon":"🍅", "cat":"DOĞA", "text":"Domates botanik olarak bir meyvedir ama mutfakta sebze gibi kullanılır.", "source":"Botanik" },
+  { "icon":"⚡", "cat":"İNSAN", "text":"Beyin, küçük bir ampulü yakacak kadar (yaklaşık 20 watt) elektrik üretir.", "source":"Nöroloji" },
+  { "icon":"🌊", "cat":"DÜNYA", "text":"Dünyanın en uzun dağ sırası kara üzerinde değil, okyanus tabanındadır.", "source":"Jeoloji" },
+  { "icon":"🐘", "cat":"HAYVAN", "text":"Filler kendilerini aynada tanıyabilen az sayıdaki hayvandan biridir.", "source":"Zooloji" },
+  { "icon":"❄️", "cat":"BİLİM", "text":"Sıcak su bardağı, soğuk suya göre bazı koşullarda daha berrak buz oluşturur.", "source":"Fizik" },
+  { "icon":"🦠", "cat":"İNSAN", "text":"Vücudundaki bakteri hücreleri, insan hücrelerinle neredeyse aynı sayıdadır.", "source":"Biyoloji" },
+  { "icon":"🌴", "cat":"DOĞA", "text":"Hindistan cevizi her yıl köpekbalıklarından daha fazla insanın ölümüne yol açar.", "source":"İstatistik" },
+  { "icon":"🕊️", "cat":"HAYVAN", "text":"Güvercinler onlarca kilometreden yollarını bulabilir; Dünya'nın manyetik alanını hisseder.", "source":"Zooloji" },
+  { "icon":"🎨", "cat":"BİLİM", "text":"İnsan gözü yaklaşık 10 milyon farklı rengi ayırt edebilir.", "source":"Fizyoloji" },
+  { "icon":"🏔️", "cat":"DÜNYA", "text":"Denizden ölçülürse en yüksek dağ Everest değil, Hawaii'deki Mauna Kea'dır.", "source":"Coğrafya" },
+  { "icon":"🦴", "cat":"İNSAN", "text":"Vücudun en güçlü kası, boyutuna oranla çene kasıdır.", "source":"Anatomi" },
+  { "icon":"🌙", "cat":"UZAY", "text":"Ay'da bırakılan ayak izleri, rüzgâr olmadığı için milyonlarca yıl kalabilir.", "source":"Astronomi" },
+  { "icon":"🐝", "cat":"HAYVAN", "text":"Arılar yüzleri hatırlayabilir; bir insanı görsel olarak tanıyabildikleri gösterilmiştir.", "source":"Zooloji" },
+  { "icon":"💨", "cat":"BİLİM", "text":"Sesten hızlı giden bir uçak, arkasında gök gürültüsü gibi bir patlama sesi bırakır.", "source":"Fizik" },
+  { "icon":"🌡️", "cat":"DÜNYA", "text":"Yeryüzünde ölçülen en düşük sıcaklık Antarktika'da yaklaşık -89 °C'dir.", "source":"Meteoroloji" }
+]
