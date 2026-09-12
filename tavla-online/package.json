@@ -1,0 +1,25 @@
+{
+  "name": "tavla-online",
+  "version": "0.1.0",
+  "description": "Google Play için profesyonel çevrimiçi tavla oyunu (Phaser 3 + Vite + Capacitor)",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/engine.test.mjs",
+    "cap:add": "cap add android",
+    "cap:sync": "npm run build && cap sync android",
+    "cap:open": "cap open android"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/android": "^6.1.0"
+  }
+}
