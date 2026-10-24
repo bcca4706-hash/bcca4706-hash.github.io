@@ -1,0 +1,9 @@
+{
+  "banner": "ca-app-pub-2288995098594728/8571983879",
+  "rewarded": "ca-app-pub-2288995098594728/4632738861",
+  "interstitial": "ca-app-pub-2288995098594728/4291037717",
+  "every": 3,
+  "gapSec": 20,
+  "rewardCards": 6,
+  "test": true
+}
