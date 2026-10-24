@@ -5,5 +5,5 @@
   "every": 3,
   "gapSec": 20,
   "rewardCards": 6,
-  "test": true
+  "test": false
 }
